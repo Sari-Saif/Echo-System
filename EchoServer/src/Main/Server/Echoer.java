@@ -1,4 +1,4 @@
-package com.udemylearing;
+package Main.Server;
 
 import java.io.BufferedReader;
 import java.io.IOException;
