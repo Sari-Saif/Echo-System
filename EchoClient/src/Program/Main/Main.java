@@ -30,7 +30,7 @@ public class Main {
                      System.out.println(response);
                  }
              }
-             while (!!echoString.equals("exit"));
+             while (!echoString.equals("exit"));
          }
          catch (SocketTimeoutException e)
          {
